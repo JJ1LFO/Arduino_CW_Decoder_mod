@@ -10,7 +10,7 @@
 *					and Grove - I2C 16x2 RGB Backlight LCD.
 *							https://www.seeedstudio.com/Grove-LCD-RGB-Backlight.html
 *
-*	- Supports Mcicrophone input of Grove - Beginner Kit for Arduino.
+*	- Supports Microphone input of Grove - Beginner Kit for Arduino.
 *					https://www.seeedstudio.com/Grove-Beginner-Kit-for-Arduino-p-4549.html
 *
 *	- Changed some parameter values.
