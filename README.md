@@ -4,8 +4,8 @@
 This program is a modified version of "OZ1JHM CW Decoder VER 1.01", 
 originally developed by Hjalmar Skovholm Hansen OZ1JHM.
 These modifications were made by JJ1LFO@jarl.com on Sep. 15th 2024.
-Modifications: 
 
+Modifications: 
 - Supports Grove - OLED Display 0.96" (SSD1315) 
 							https://wiki.seeedstudio.com/Grove-OLED-Display-0.96-SSD1315/
 - Supports Grove - I2C 16x2 RGB Backlight LCD.
